@@ -1,6 +1,5 @@
 ### Hi there 👋
-I am LiquidX. 
-I am Medical Student, who is passionate about programming. 
+Yha Thullu Milta Hai , Lene Ke Liye Niche Diye Gaye Telegram Ke Nisaan Per Click Kare.
 
 
 
