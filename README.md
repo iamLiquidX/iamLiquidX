@@ -2,6 +2,11 @@
 Yha Thullu Milta Hai , Lene Ke Liye Niche Diye Gaye Telegram Ke Nisaan Per Click Kare.
 
 
+I am not a dev, so don't come complaining this is not working , that is not working. I do most of modification for myself. And most of my modification are taken form the github public repo, most of the time i just merge this and that.
+
+Hope you all enjoy the work.
+
+
 
 
 
