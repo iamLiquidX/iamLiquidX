@@ -1,8 +1,8 @@
 ### Hi there 👋
-Yha Thullu Milta Hai , Lene Ke Liye Niche Diye Gaye Telegram Ke Nisaan Per Click Kare.
 
+I Am Another One Of Those Forkers................
 
-I am not a dev, so don't come complaining this is not working , that is not working. I do most of modification for myself. And most of my modification are taken form the github public repo, most of the time i just merge this and that.
+I am not a dev. so don't expect much here, Most of the time i just mix this and that, and if that works ,kudoos. You can always find who helped and whats taken from where in credit section of repo. If you can make any improvments to any of the present repos , You are more than welcome to do so.
 
 Hope you all enjoy the work.
 
