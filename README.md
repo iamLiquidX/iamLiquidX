@@ -2,8 +2,6 @@
 
 I Am Another One Of Those Forkers................
 
-I am not a dev. so don't expect much here, Most of the time i just mix this and that, and if that works ,kudoos. You can always find who helped and whats taken from where in credit section of repo. If you can make any improvments to any of the present repos , You are more than welcome to do so.
-
 Hope you all enjoy the work.
 
 
